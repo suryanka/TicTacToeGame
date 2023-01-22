@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToeApplication</string>
+    <string name="account">Don\'t you have an account yet?<font color="@color/black"><b><u><i>Sign Up</i></u></b></font></string>
+    <string name="forgot"><font color="@color/black"><u>I forgot my password</u></font></string>
+</resources>
